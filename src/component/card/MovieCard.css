@@ -45,6 +45,10 @@ b:hover {
         height: 150px;
     }
 
+    .cardImg:hover {
+        height: 140px;
+    }
+
 }
 
 @media (max-width: 480px) {
